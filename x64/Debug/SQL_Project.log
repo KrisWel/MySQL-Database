@@ -1,0 +1,6 @@
+﻿  SQL_Project.cpp
+D:\Szkola\SEM5\SQL\SQL_Project\LoginPanel.cpp(25,120): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+D:\Szkola\SEM5\SQL\SQL_Project\LoginPanel.cpp(25,183): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+D:\Szkola\SEM5\SQL\SQL_Project\UserPanel.cpp(94,14): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Szkola\SEM5\SQL\SQL_Project\adminPanel.cpp(26,124): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  SQL_Project.vcxproj -> D:\Szkola\SEM5\SQL\SQL_Project\x64\Debug\SQL_Project.exe
